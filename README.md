@@ -1,5 +1,5 @@
 # Final-Project Group 19
-## You should be able to type 'make' to complie the program 
+## You should be able to type 'make' to complie the program use makefile in msys2 64bit
 
 ## Lists of Commands  
 | Command  | Description  |
