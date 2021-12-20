@@ -5,7 +5,7 @@ We run it in Windows system, using mingw and 'make' command.
 ## Group Members
 Mengfei Liang (Liangm17, 400227110)
 Sean Gao (gaox47, 400194815)
-Yuxuan Huang (400191170)
+Yuxuan Hang (400191170)
 
 
 ## List of Commands  
